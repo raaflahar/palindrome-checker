@@ -15,6 +15,6 @@ Any feature regarding Palindrome Checker is as follows:
 ## Documentation
 
 Here's some documentation regarding my project. Hopefully, it will serves as proof that users my expect from my project of all the features inside the project.
-![Screenshoot](1.png)
+![Screenshoot](https://github.com/raaflahar/palindrome-checker/blob/master/assets/1.png?raw=true)
 ![2](2.png)
 ![3](3.png)
